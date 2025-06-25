@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zhe Xian</h1>
 <h3 align="center">Fresh Graduate in Software Engineering | TARUMT Penang Branch</h3>
-Welcome to my GitHub profile! I'm passionate about solving real-world problems with intelligent solutions and clean UI/UX. I build software that bridges **AI, automation, and user-centered design**.
+Welcome to my GitHub profile! I'm passionate about solving real-world problems with intelligent solutions and clean UI/UX. I build software that bridges <b>AI, automation, and user-centered design</b>.
 
 ---
 
