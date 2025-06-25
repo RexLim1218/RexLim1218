@@ -1,16 +1,32 @@
 <h1 align="center">Hi 👋, I'm Zhe Xian</h1>
-<h3 align="center">🎓 Software Engineering Student at TARUMT Penang</h3>
+<h3 align="center">Fresh Graduate in Software Engineering | TARUMT Penang Branch</h3>
+Welcome to my GitHub profile! I'm passionate about solving real-world problems with intelligent solutions and clean UI/UX. I build software that bridges **AI, automation, and user-centered design**.
 
 ---
 
-🌱 **Currently Learning:**  
-AI & Machine Learning, Full-Stack Development, and Cloud Technologies.
+### 📈 About Me
+- 📅 **Graduated:** TARUMT Penang, Diploma in Software Engineering
+- 🚀 **Current Focus:** Full-Stack Development, AI/ML Integration, and Industrial Automation
+- 🌐 **Interest Areas:** AI for Healthcare, IoT Apps, Workflow Automation, and Frontend Dashboards
 
-💼 **Projects & Interests:**  
-- 🧠 Skin Disease Detection using CNN  
-- 🍽️ Online Food Ordering System for TARUMT Canteen  
-- ⚙️ PLC Communication App using Flutter & .NET  
-- 📊 Dashboard & Monitoring with Dataiku and Grafana  
+
+💼 **Projects & Interests:**
+
+- [🧠 AI_Enhanced_Skin_Detection_And_Appointment_System](https://github.com/RexLim1218/AI_Enhanced_Skin_Detection_And_Appointment_System)  
+
+- [🌿 PlantDiseaseDetection](https://github.com/RexLim1218/PlantDiseaseDetection)  
+
+- [🌐 Innisfree_JSP](https://github.com/RexLim1218/Innisfree_JSP)  
+
+- [🖥️ InnisfreeCompanyASP.NET](https://github.com/RexLim1218/InnisfreeCompanyASP.NET)  
+
+- [🧾 ChineseLanguageSociety](https://github.com/RexLim1218/ChineseLanguageSociety)  
+
+- [🎯 TheGoodTimesClub](https://github.com/RexLim1218/TheGoodTimesClub)  
+
+- [🛒 VegetableOrderingSystem](https://github.com/RexLim1218/VegetableOrderingSystem)  
+
+- [💄 SweetFace](https://github.com/RexLim1218/SweetFace)  
 
 ---
 
