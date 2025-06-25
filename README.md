@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
 ---
 
 ### 📈 About Me
-- 📅 **Graduated:** Tunku Abdul Rahman University of Management and Technology (TARUMT) Penang, Diploma in Software Engineering
+- 📅 **Graduated:** Tunku Abdul Rahman University of Management and Technology (TARUMT) Penang, Bachelor of Software Engineering (Honours)
 - 🚀 **Current Focus:** Full-Stack Development, AI/ML Integration, and Industrial Automation
 - 🌐 **Interest Areas:** AI for Healthcare, IoT Apps, Workflow Automation, and Frontend Dashboards
 
