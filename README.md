@@ -109,12 +109,8 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RexLim1218&show_icons=true&theme=radical" alt="Zhe Xian's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexLim1218&layout=compact&theme=radical" alt="Top Languages"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexLim1218&layout=compact&theme=radical" alt="Top Languages"/> -->
 </p>
 
 ---
 
-### 🖼️ Tech Stack Preview
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RexLim1218/RexLim1218/main/31f58ee6-0fb8-4d66-b15b-4c23b8ab46b5.png" width="800"/>
-</p>
