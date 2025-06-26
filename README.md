@@ -98,13 +98,6 @@ Welcome to my GitHub profile! I'm passionate about solving real-world problems w
 
 ---
 
-### 🚀 Top Projects
-- [🧬 Skin Disease Classifier](https://github.com/RexLim1218/skin-disease-classifier) — Deep learning model with VGG16 for classification  
-- [📱 Flutter PLC App](https://github.com/RexLim1218/flutter-plc-app) — Industrial automation frontend  
-- [🌐 Django Canteen System](https://github.com/RexLim1218/django-canteen-system) — Full-stack food ordering web app  
-- [📈 Dataiku Dashboard](https://github.com/RexLim1218/dataiku-dashboard) — Visual AI model orchestration
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
